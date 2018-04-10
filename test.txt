@@ -1,8 +1,0 @@
-test my_gitHub
-update
-<<<<<<< HEAD
-second time update
-=======
-third time
->>>>>>> 4e0a35458f180af8c31c75821aea8d9b99914db0
-fourth time
